@@ -1,0 +1,25 @@
+--------------------------------------------
+目前X100飞机端MCU最新固件版本号:
+The X100 drone's latest firmware version:
+
+ fc：			X100_427_V1.6.8.230717 
+ coprocessor：	X100_217_V2.5.5.230717
+ ext_brd：		X100_EXT_V1.0.9.230321
+ mnt_brd：		X100_MNT_V1.0.9.230420
+ cmb_brd：		X100_CMB_V1.0.1.220304
+ -------------------------------------------
+遥控器MCU最新固件版本号：
+The radio's latest firmware version:
+
+ Y12_MCU:		X100_Y12_V2.1.8.230322
+ 
+--------------------------------------------
+MCU说明：
+MCU comment:
+
+fc     			-- 飞控/flight control
+coprocessor     -- 协处理器/co-processor
+ext_brd 		-- 扩展板/external board
+mnt_brd 		-- 挂载板/mount board
+cmb_brd 		-- 组合板/combined board
+Y12_MCU 		-- 遥控器Y12/the radio Y12
